@@ -208,7 +208,7 @@ Complete reference guide for the John Okyere Portfolio codebase.
     - StarkFinder (Opensource)
     - Medialano (Opensource)
   - **AI Projects:**
-    - Zintarh AI (this portfolio)
+    - johnokyere AI (this portfolio)
     - Dissertation Scaffold
 - **Export:** `getProjects()` function
 
@@ -259,7 +259,7 @@ Complete reference guide for the John Okyere Portfolio codebase.
 ## 🔧 Configuration Files
 
 ### `package.json`
-- **Name:** zintarh
+- **Name:** johnokyere
 - **Version:** 0.1.0
 - **Scripts:**
   - `dev`: Next.js dev with Turbopack

@@ -8,7 +8,7 @@ Get your portfolio running in 5 minutes!
 
 ### Step 1: Install Dependencies
 ```powershell
-cd c:\Users\user\Desktop\zintarh-portfolio
+cd c:\Users\user\Desktop\johnokyere-portfolio
 pnpm install
 ```
 

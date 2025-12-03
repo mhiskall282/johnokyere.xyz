@@ -75,7 +75,7 @@ I'm **John Okyere** (professionally known as **Mhiskall**), a passionate technol
   - **Coloniz** - Community platform on Starknet
   - **Starknet Tokenbound SDK** - ERC-6551 implementation
   - **TBA Explorer** - Token Bound Account explorer
-  - **Zintarh AI** - This portfolio with AI assistant
+  - **johnokyere AI** - This portfolio with AI assistant
   - **Dissertation Scaffold** - AI-powered research tool
 
 #### 3️⃣ Open Source (`/opensource`)
@@ -134,7 +134,7 @@ I'm **John Okyere** (professionally known as **Mhiskall**), a passionate technol
 ## 📁 Project Structure
 
 ```
-zintarh-portfolio/
+johnokyere-portfolio/
 ├── app/                          # Next.js App Router
 │   ├── page.tsx                  # Home page
 │   ├── layout.tsx                # Root layout with metadata
@@ -201,8 +201,8 @@ zintarh-portfolio/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/zintarh/zintarh-portfolio.git
-   cd zintarh-portfolio
+   git clone https://github.com/johnokyere/johnokyere-portfolio.git
+   cd johnokyere-portfolio
    ```
 
 2. **Install dependencies**

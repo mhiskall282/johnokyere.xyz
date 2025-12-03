@@ -58,13 +58,13 @@ const projects: ProjectData[] = [
   },
 
   {
-    title: "Zintarh AI",
+    title: "johnokyere AI",
     description:
-      " Zintarh, the personal portfolio of an AI and Web3 builder. It's an interactive space where you can explore my projects and ask my AI assistant to guide you through my work and skills",
+      " johnokyere, the personal portfolio of an AI and Web3 builder. It's an interactive space where you can explore my projects and ask my AI assistant to guide you through my work and skills",
     techStack: ["Nextjs", "Typescript", "AI", "Vercel AI SDK"],
     category: "AI",
-    liveDemoUrl: "https://zintarh.vercel.app/",
-    githubUrl: "https://github.com/zintarh/zintarh-portfolio",
+    liveDemoUrl: "https://johnokyere.vercel.app/",
+    githubUrl: "https://github.com/johnokyere/johnokyere-portfolio",
     imageUrl:
       "https://via.placeholder.com/800x450/0D1117/8B5CF6?text=Artifex+AI",
   },
@@ -75,7 +75,7 @@ const projects: ProjectData[] = [
     techStack: ["Nextjs", "Tailwind CSS", "AI"],
     category: "ai",
     liveDemoUrl: "https://dessertscaffold.vercel.app/",
-    githubUrl: "https://github.com/zintarh/dessertscaffold",
+    githubUrl: "https://github.com/johnokyere/dessertscaffold",
     imageUrl:
       "https://via.placeholder.com/800x450/0D1117/8B5CF6?text=QuantumLeap+Analytics",
   },
