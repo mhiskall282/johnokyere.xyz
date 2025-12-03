@@ -14,7 +14,7 @@ Your application requires environment variables that aren't configured:
 ```env
 # Create .env.local file in root directory
 OPENAI_API_KEY=your_openai_api_key_here
-NEXT_PUBLIC_SITE_URL=https://johnokyere.com
+NEXT_PUBLIC_SITE_URL=https://johnokyere.vercel.app
 ```
 
 **Why:** The AI chat feature won't work without the OpenAI API key.
@@ -233,7 +233,7 @@ export async function POST(req: Request) {
   const { name, email, message } = await req.json();
   
   await resend.emails.send({
-    from: "noreply@johnokyere.com",
+    from: "noreply@johnokyere.vercel.app",
     to: "0xmhiskall@gmail.com",
     subject: `Portfolio Contact: ${name}`,
     html: `<p><strong>From:</strong> ${name} (${email})</p><p>${message}</p>`,
@@ -588,10 +588,10 @@ Already implemented but could expand:
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "John Okyere Portfolio",
-  "url": "https://johnokyere.com",
+  "url": "https://johnokyere.vercel.app",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://johnokyere.com/search?q={search_term_string}",
+    "target": "https://johnokyere.vercel.app/search?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }

@@ -7,7 +7,7 @@
 
 > An innovative, interactive portfolio showcasing my work as a **Software Engineer**, **Blockchain Developer**, and **DevOps Specialist**. Features an AI-powered chat assistant that engages visitors and answers questions about my experience, projects, and technical skills.
 
-**Live Demo:** [johnokyere.com](https://johnokyere.com)
+**Live Demo:** [johnokyere.vercel.app](https://johnokyere.vercel.app)
 
 ---
 
@@ -220,7 +220,7 @@ zintarh-portfolio/
    OPENAI_API_KEY=your_openai_api_key_here
    
    # Site URL (for SEO and metadata)
-   NEXT_PUBLIC_SITE_URL=https://johnokyere.com
+   NEXT_PUBLIC_SITE_URL=https://johnokyere.vercel.app
    ```
 
 4. **Run the development server**
@@ -428,7 +428,7 @@ See [IMPROVEMENTS.md](IMPROVEMENTS.md) for planned features and integrations.
 
 **Built with ❤️ by John Okyere**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-johnokyere.com-cyan)](https://johnokyere.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-johnokyere.vercel.app-cyan)](https://johnokyere.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-mhiskall282-black)](https://github.com/mhiskall282)
 [![Twitter](https://img.shields.io/badge/Twitter-@0xmhiskall-1DA1F2)](https://x.com/0xmhiskall)
 

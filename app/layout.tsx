@@ -20,7 +20,7 @@ const gloriaFont = Gloria_Hallelujah({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://johnokyere.com'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://johnokyere.vercel.app'),
   title: {
     // Broad high-level title + Specific Cloud Certifications + SEO Location
     default: "John Okyere - Software & Blockchain Engineer & Cloud Architect in Ghana & Africa | AWS Certified",
@@ -102,8 +102,8 @@ export const metadata: Metadata = {
     "John Okyere",
     "0xMhiskall",
     "0xmhiskall@gmail.com",
-    "johnokyere.com",
-    "https://johnokyere.com",
+    "johnokyere.vercel.app",
+    "https://johnokyere.vercel.app",
     "best developer portfolio",
     "award winning portfolio"
   ],
@@ -125,7 +125,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: process.env.NEXT_PUBLIC_SITE_URL || 'https://johnokyere.com',
+    url: process.env.NEXT_PUBLIC_SITE_URL || 'https://johnokyere.vercel.app',
     siteName: "John Okyere Portfolio",
     title: "John Okyere - Best Smart Contract and Software Engineer in Ghana & Africa | Web3 & AI Developer",
     description: "Hire the best blockchain engineer in Ghana and Africa. Smart contract software engineer specializing in Web3, AI development, and smart contracts. Expert in React, Next.js, TypeScript, Starknet, and Ethereum. Women in blockchain and web3.",
@@ -146,7 +146,7 @@ export const metadata: Metadata = {
     images: ["/og-image.jpg"],
   },
   alternates: {
-    canonical: process.env.NEXT_PUBLIC_SITE_URL || 'https://johnokyere.com',
+    canonical: process.env.NEXT_PUBLIC_SITE_URL || 'https://johnokyere.vercel.app',
   },
   category: "Technology",
 };

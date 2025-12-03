@@ -20,7 +20,7 @@ Create `.env.local` in the root directory:
 OPENAI_API_KEY=sk-your-api-key-here
 
 # Your website URL
-NEXT_PUBLIC_SITE_URL=https://johnokyere.com
+NEXT_PUBLIC_SITE_URL=https://johnokyere.vercel.app
 ```
 
 ### Step 3: Run Development Server

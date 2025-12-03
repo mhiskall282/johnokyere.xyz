@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "John Okyere",
-      url: "https://johnokyere.com",
+      url: "https://johnokyere.vercel.app",
     },
   ],
   creator: "John Okyere",

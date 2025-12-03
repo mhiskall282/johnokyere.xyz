@@ -14,7 +14,7 @@ export default function Home() {
       jobTitle: "Software Engineer, Blockchain Engineer, Cryptographer, Rust Developer",
       description:
         "Blockchain engineer in Ghana and Africa specializing in Web3, AI development, and smart contracts. Best portfolio showcasing innovative projects.",
-      url: process.env.NEXT_PUBLIC_SITE_URL || "https://johnokyere.com",
+      url: process.env.NEXT_PUBLIC_SITE_URL || "https://johnokyere.vercel.app",
       sameAs: [
         "https://www.linkedin.com/in/johnokyere/",
         "https://x.com/0xmhiskall",
