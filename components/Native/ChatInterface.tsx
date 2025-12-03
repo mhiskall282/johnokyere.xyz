@@ -85,7 +85,7 @@ export default function ChatInterface({ prompt }: { prompt: string }) {
                   value={input}
                   onChange={(e) => setInput(e.target.value)}
                   onKeyDown={handleKeyDown}
-                  placeholder="Ask me anything about Zintarh..."
+                  placeholder="Ask me anything about John Okyere..."
                   className="w-full h-14 pl-14 pr-14 bg-background/80 backdrop-blur-sm border-2 border-border rounded-2xl outline-none focus:border-primary transition-colors placeholder:text-foreground/50 text-foreground text-base font-medium shadow-lg"
                   disabled={isLoading}
                   autoFocus

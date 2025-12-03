@@ -66,7 +66,7 @@ export default function MobileNav() {
             </div>
             <div>
               <div className="text-base font-bold text-foreground flex items-center gap-2">
-                Zintarh
+                John Okyere
               </div>
               <div className="text-[10px] text-foreground/50 font-medium">Portfolio</div>
             </div>
