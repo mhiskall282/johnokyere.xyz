@@ -1,8 +1,8 @@
 <div align="center">
-  <h2>samueldanso.com</h2>
+  <h2>johnokyere.xyz</h2>
   <p>My little corner on the internet where I showcase my work, and the products I’m building.</p>
 
-![Portfolio Screenshot](https://github.com/samueldanso/samueldanso.com/blob/main/app/opengraph-image.png)
+![Portfolio Screenshot](https://github.com/mhiskall282/johnokyere.xyz/blob/main/app/opengraph-image.png)
 
 <p>Made with ❤️ and minimalism.</p>
 
