@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Source_Code_Pro, Inter, Gloria_Hallelujah } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import { AI } from "./action";
 import "./globals.css";
 
@@ -162,6 +163,7 @@ export default function RootLayout({
         className={`${interFont.variable} ${sourceCodePro.variable} ${gloriaFont.variable} antialiased`}
       >
         <AI>{children}</AI>
+        <Analytics />
       </body>
     </html>
   );
