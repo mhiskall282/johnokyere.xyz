@@ -35,7 +35,7 @@ export function Footer() {
           rel="noopener noreferrer"
           className="text-muted-foreground border-b border-dashed border-transparent hover:border-foreground/60 transition-colors duration-200"
         >
-          Samuel Danso
+          John Okyere
         </a>
       </span>
       <span className="tabular-nums">{time}</span>
