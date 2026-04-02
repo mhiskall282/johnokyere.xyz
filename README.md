@@ -4,6 +4,6 @@
 
 ![Portfolio Screenshot](https://github.com/mhiskall282/johnokyere.xyz/blob/main/app/opengraph-image-1.jpg)
 
-<p>Made with ❤️ and minimalism.</p>
+<p>Made with ❤️ and minimalism .</p>
 
 </div>
