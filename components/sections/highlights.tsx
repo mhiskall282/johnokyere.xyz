@@ -14,24 +14,132 @@ import { LinesBG } from "@/components/ui/grid-patterns";
 
 const HIGHLIGHTS = [
   {
-    title: "African Builder Stories Singapore",
-    image: "/images/highlights/african-builder-stories.JPG",
+    title: "African Builder Stories — Ethiopia Feature",
+    image: "/images/highlights/african-builder-eth.jpg",
   },
   {
-    title: "Building at ETHiopia Builder Residency",
+    title: "Builder in Residence at ETHiopia Builder Residency",
     image: "/images/highlights/ETHiopia-residency.jpg",
   },
   {
-    title: "Hacking at ETHiopia Builder Hackathon",
-    image: "/images/highlights/ETHopia-hackathon.jpg",
+    title: "Competing at ETHiopia Builder Hackathon",
+    image: "/images/highlights/ETHiopia-hackathon.jpg",
   },
   {
-    title: "Pitching at ShanHaiWoo Singapore",
-    image: "/images/highlights/shanhaiwoo-singapore-pitch.JPG",
+    title: "Entrepreneurship & Innovation at WeVentures Ethiopia",
+    image: "/images/highlights/weventures-1.jpg",
   },
   {
-    title: "Building at ShanHaiWoo Singapore",
-    image: "/images/highlights/shanhaiwoo-singapore-residency.JPG",
+    title: "Keynote Pitch at UEW Innovation Hub — British Council",
+    image: "/images/highlights/british-council-uew.jpg",
+  },
+  {
+    title: "Roundtable Speaker at Sui Ghana × UEW Roadshow",
+    image: "/images/highlights/roundtable-sui.jpg",
+  },
+  {
+    title: "Lead Instructor — 3-Day ICP Smart Contracts Bootcamp at UCC",
+    image: "/images/highlights/bootcamp-ucc.JPG",
+  },
+  {
+    title: "ICP Community Meetup Facilitator at UCC",
+    image: "/images/highlights/ucc-meetup.JPG",
+  },
+  {
+    title: "Pitch Showcase at AyaHQ × UEW Roadshow",
+    image: "/images/highlights/aya-roadshow-uew.jpg",
+  },
+  {
+    title: "Instructor — Rust & Motoko Smart Contract Development at UEW",
+    image: "/images/highlights/motoko-uew.jpg",
+  },
+  {
+    title: "ICP Community Meetup Host at UEW",
+    image: "/images/highlights/uew-meetup-icp.jpg",
+  },
+  {
+    title: "Startup Incubation Workshop Facilitator at UEW Innovation Hub — British Council",
+    image: "/images/highlights/incubation-workshop.jpg",
+  },
+  {
+    title: "Speaker & Organizer at Sui Overflow UEW Summit",
+    image: "/images/highlights/sui-overflow-meetup.jpg",
+  },
+  {
+    title: "Sharing My Journey as a Dev3pack Fellow & AOC Scholar at Devconnect",
+    image: "/images/highlights/devconnect-experience.jpg",
+  },
+  {
+    title: "Speaking on ZK & Web3 Engineering at ETH Enugu",
+    image: "/images/highlights/eth-enugu-1.jpg",
+  },
+  {
+    title: "Web3 & Blockchain Education Session at GI-KACE",
+    image: "/images/highlights/gi-kace.jpg",
+  },
+  {
+    title: "Mentorship Dinner with Celo Founder Marek Olszewski — Buenos Aires",
+    image: "/images/highlights/dinner-celo.jpg",
+  },
+  {
+    title: "Demo Day — Hackathon Project Showcase at ETHGlobal Argentina",
+    image: "/images/highlights/demo-day-ethglobal.jpg",
+  },
+  {
+    title: "MOU Signing Ceremony — Aya × UEW Partnership with Prof. Dake & Eric Annan",
+    image: "/images/highlights/aya-mou-1.jpg",
+  },
+  {
+    title: "Networking with AyaHQ Founders Eric Annan & Michael Lawal at Devconnect Argentina",
+    image: "/images/highlights/aya-founders-1.jpg",
+  },
+  {
+    title: "Pitching SuiVerify at Sui 3-Day Developer Bootcamp at AyaHQ",
+    image: "/images/highlights/pitch-suiverify.jpg",
+  },
+  {
+    title: "Lisk Founders Hangout at Aleph Hub — Buenos Aires, Argentina",
+    image: "/images/highlights/lisk-hangout.jpg",
+  },
+  {
+    title: "ZK Summit & Governance Day at Universidad Católica Argentina",
+    image: "/images/highlights/uca-visit.jpg",
+  },
+  {
+    title: "Panelist at Africa Blockchain Summit — Engaging Government Leaders & Ministers in Johannesburg",
+    image: "/images/highlights/africa-summit.jpg",
+  },
+  {
+    title: "Keynote: Positioning African Builders to Create Impactful Solutions — ETH Enugu Nigeria",
+    image: "/images/highlights/speaker-eth-enugu.jpg",
+  },
+  {
+    title: "African Scholars Cohort at Devconnect Argentina",
+    image: "/images/highlights/devcon-scholars.jpg",
+  },
+  {
+    title: "Hacking & Building at ETH Enugu Hackathon — Nigeria",
+    image: "/images/highlights/hack-ethenugu.jpg",
+  },
+  {
+    title: "Representing Ghana at ETH Enugu Conference 2025",
+    image: "/images/highlights/ghana-rep.jpg",
+  },
+  {
+    title: "Networking with Kotani Pay Founders, VISA Executives & BlocksFi at Africa Blockchain Summit",
+    image: "/images/highlights/ghana-rep.jpg",
+  },
+  {
+    title: "Google Cloud Roadshow 2025 — Google Accra",
+    image: "/images/highlights/cloud-roadshow.jpg",
+  },
+  {
+    title: "Builders & Residents Hangout at ETHiopia",
+    image: "/images/highlights/eth-hangout.jpg",
+  },
+  {
+    title: "Technical Deep-Dive with Blockradar Founder Stanley Morgan on Blockchain Infrastructure",
+    image: "/images/highlights/blockradar.jpg",
   },
 ];
 
